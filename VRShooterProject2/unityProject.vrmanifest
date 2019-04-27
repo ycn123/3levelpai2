@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrshooterproject2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\GitHub\\3levelpai2\\VRShooterProject2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRShooterProject2 [Testing]"
+        }
+      }
+    }
+  ]
+}
